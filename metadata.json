@@ -1,0 +1,8 @@
+{
+  "uuid": "gnome-honeycomb@adlair",
+  "name": "GNOME Honeycomb",
+  "description": "Transforms the Applications view into a centered, rotatable honeycomb of app icons with magnetic magnification.",
+  "shell-version": ["50"],
+  "url": "https://github.com/adlair/gnome-honeycomb",
+  "version-name": "1.0.0"
+}
