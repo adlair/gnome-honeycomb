@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/gnome-honeycomb-logo.png"
+       width="220"
+       alt="GNOME Honeycomb logo">
+</p>
+
 # GNOME Honeycomb
 
 GNOME Honeycomb replaces GNOME's paginated Applications grid with a centered, rotatable application universe. Application icons are distributed deterministically over a virtual sphere, projected into the GNOME Overview, depth-scaled, faded toward the rear hemisphere, and locally magnified by a magnetic pointer field.
