@@ -10,6 +10,14 @@ GNOME Honeycomb replaces GNOME's paginated Applications grid with a centered, ro
 
 The result is a launcher that behaves less like pages and more like a rotatable bubble of applications: the center stays fixed while dragging rotates the application universe around it.
 
+## Demo
+
+<p align="center">
+  <img src="screenshots/orbital-demo.webp"
+       width="900"
+       alt="GNOME Honeycomb in action">
+</p>
+
 ## Features
 
 - One continuous application universe with GNOME app folders flattened into individual applications.
@@ -20,6 +28,14 @@ The result is a launcher that behaves less like pages and more like a rotatable 
 - Direct application activation by clicking an icon.
 - GNOME's stock pagination controls are hidden while Honeycomb is active and restored afterward.
 - Full lifecycle cleanup when Overview closes or the extension is disabled.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/orbital-1.jpg" width="32%" alt="GNOME Honeycomb orbital view">
+  <img src="screenshots/orbital-2.jpg" width="32%" alt="GNOME Honeycomb rotation">
+  <img src="screenshots/orbital-3.jpg" width="32%" alt="GNOME Honeycomb magnetic magnification">
+</p>
 
 ## Requirements
 
